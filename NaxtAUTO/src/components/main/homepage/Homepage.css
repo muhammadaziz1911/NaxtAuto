@@ -1,0 +1,164 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  text-decoration: none;
+  list-style: none;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.container .header {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  padding: 10px;
+  
+}
+
+.container .header .header_title h2 {
+  cursor: pointer;
+}
+
+.container .header .header_title h2 span {
+  color: blue;
+}
+
+.container .header .nav ul {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 20px;
+}
+
+.container .header .nav ul li a {
+  color: rgba(0, 0, 0, 0.581);
+  font-size: 14px;
+}
+
+.container .header .nav ul li a:hover {
+  color: black;
+}
+
+.container .header .header_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: space-around;
+  gap: 25px;
+}
+
+.container .header .header_buttons .sotish_button button {
+  padding: 7px 18px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: rgba(0, 0, 255, 0.764);
+  cursor: pointer;
+}
+
+.container .header .header_buttons .sotish_button button:hover {
+  background-color: blue;
+}
+
+/* .container .header .header_buttons .narxlash_button button {
+  padding: 7px 12px;
+  border-radius: 10px;
+  border: none;
+  color: white;
+  background-color: #f9fafb;
+} */
+
+.main {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.main .main_text {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+}
+
+.main .main_text h1 {
+  width: 1050px;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  font-size: 48px;
+  padding-top: 40px;
+
+}
+
+.main .main_text h1 span {
+  color: blue;
+}
+
+.main .main_text p {
+  width: 550px;
+  font-size: 18px;
+  color: rgba(0, 0, 0, 0.581);
+  padding-top: 20px;
+}
+
+.main .main_buttons {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 20px;
+  padding-top: 50px;
+}
+
+.main .main_buttons .tez_sotish button {
+  padding: 15px 30px ;
+  border: none;
+  border-radius: 10px;
+  color: #fff;
+  background-color: rgba(0, 0, 255, 0.82);
+  font-size: 18px;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: pointer;
+  font-weight: 500;
+}
+
+.main .main_buttons .tez_sotish button:hover{
+  background-color: blue;
+}
+
+.main .main_buttons .see_cars button {
+  padding: 15px 30px ;
+  border: none;
+  border-radius: 10px;
+  color: #000;
+  font-size: 18px;
+  font-weight: 500;
+  font-family: system-ui, -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+  cursor: pointer;
+}
+
+.main .why_naxtAuto {
+  width: 100%;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  text-align: center;
+  justify-content: center;
+  background-color: #f9fafb;
+  padding-top: 100px;
+  margin-top: 100px;
+}
+
+.main .why_naxtAuto h2 {
+  font-size: 28px;
+  font-weight: 600;
+  padding-bottom: 50px;
+}
+
+.main .why_naxtAuto .main_boxes {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+}
