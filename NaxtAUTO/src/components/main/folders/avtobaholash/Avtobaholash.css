@@ -58,3 +58,7 @@
 .avtobaholash_header .header .header_buttons .sotish_button button:hover {
   background-color: blue;
 }
+
+.avto_baholash_ai .main_box {
+  background-color: #2563eb;
+}

@@ -70,6 +70,14 @@ const Avtobaholash = () => {
 
         </div>
 
+        <div className="avto_baholash_ai">
+
+            <div className="main_box">
+              
+            </div>
+
+        </div>
+
       </div>
 
     </div>
