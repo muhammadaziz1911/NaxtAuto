@@ -173,6 +173,14 @@ const Homepage = () => {
 
               </div>
 
+              <div className="footer_naxtauto">
+
+                  <p>
+                    © 2024 NaxtAuto Startup Demo. O'zbekistonning birinchi AI platformasi.
+                  </p>
+
+              </div>
+
             </div>
 
           </div>

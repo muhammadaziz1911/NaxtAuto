@@ -162,3 +162,11 @@
   align-items: center;
   justify-content: space-between;
 }
+
+.main .why_naxtAuto .footer_naxtauto {
+  text-align: center;
+  justify-content: center;
+  align-items: center;
+  padding-top: 150px;
+  margin-bottom: 50px;
+}
