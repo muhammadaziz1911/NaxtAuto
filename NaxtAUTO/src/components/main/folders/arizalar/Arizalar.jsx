@@ -1,0 +1,15 @@
+import React from 'react'
+
+const Arizalar = () => {
+  return (
+    <div>
+      
+      <h2>
+        Arizalar page
+      </h2>
+
+    </div>
+  )
+}
+
+export default Arizalar
