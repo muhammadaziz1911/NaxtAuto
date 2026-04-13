@@ -73,6 +73,14 @@ const Avtobaholash = () => {
         <div className="avto_baholash_ai">
 
             <div className="main_box">
+
+              <h3>
+                Avto baholash AI
+              </h3>
+
+              <p>
+                Malumotlarni kiriting va 10 soniyada ichida narxni bilib oling
+              </p>
               
             </div>
 
