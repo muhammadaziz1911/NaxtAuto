@@ -81,6 +81,14 @@ const Avtobaholash = () => {
               <p>
                 Malumotlarni kiriting va 10 soniyada ichida narxni bilib oling
               </p>
+
+              <h2>
+                hi
+              </h2>
+
+              <h3>
+                Salom
+              </h3>
               
             </div>
 
