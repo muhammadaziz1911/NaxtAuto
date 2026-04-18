@@ -8,6 +8,10 @@ const Arizalar = () => {
         Arizalar page
       </h2>
 
+      <h3>
+        In this page you can find Arizalar
+      </h3>
+
     </div>
   )
 }
