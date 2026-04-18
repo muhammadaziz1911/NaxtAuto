@@ -12,6 +12,10 @@ const Arizalar = () => {
         In this page you can find Arizalar
       </h3>
 
+      <h4>
+        You can't read this page now!
+      </h4>
+
     </div>
   )
 }
