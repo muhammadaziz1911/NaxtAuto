@@ -104,6 +104,13 @@ const Avtobaholash = () => {
                 </select>
               </div>
               
+              <div className="yili">
+                <h3>
+                  Yili
+                </h3>
+                <input type="number" placeholder='2022' />
+              </div>
+
             </div>
 
         </div>
