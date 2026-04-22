@@ -111,6 +111,13 @@ const Avtobaholash = () => {
                 <input type="number" placeholder='2022' />
               </div>
 
+              <div className="probeg">
+                <h3>
+                  Probeg(km)
+                </h3>
+                <input type="number" />
+              </div>
+
             </div>
 
         </div>
