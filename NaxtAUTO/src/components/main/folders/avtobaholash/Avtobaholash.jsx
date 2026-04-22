@@ -82,17 +82,22 @@ const Avtobaholash = () => {
                 Malumotlarni kiriting va 10 soniyada ichida narxni bilib oling
               </p>
 
-              <h2>
-                hi
-              </h2>
-
-              <h3>
-                Salom
-              </h3>
+              <div className="marka">
+                <h3>
+                  Marka
+                </h3>
+                <select name="marka" id="marka">
+                  <option value="Chevrolet">Chevrolet</option>
+                  <option value="Chevrolet">Chevrolet</option>
+                  <option value="Chevrolet">Chevrolet</option>
+                </select>
+              </div>
               
             </div>
 
         </div>
+
+
 
       </div>
 
