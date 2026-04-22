@@ -92,6 +92,17 @@ const Avtobaholash = () => {
                   <option value="Chevrolet">Chevrolet</option>
                 </select>
               </div>
+
+              <div className="model">
+                <h3>
+                  Model
+                </h3>
+                <select name="marka" id="marka">
+                  <option value="Gentra">Gentra</option>
+                  <option value="Gentra">Gentra</option>
+                  <option value="Gentra">Gentra</option>
+                </select>
+              </div>
               
             </div>
 
