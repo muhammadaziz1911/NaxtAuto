@@ -128,6 +128,18 @@ const Avtobaholash = () => {
                 </select>
               </div>
 
+              <div className="holati">
+                <h3>
+                  Holati
+                </h3>
+                <select name="holati" id="holati">
+                  <option value="Ideal">Ideal</option>
+                  <option value="Yaxshi">Yaxshi</option>
+                  <option value="O'rtacha">O'rtacha</option>
+                  <option value="Tamirga muhtoj">Tamirga muhtoj</option>
+                </select>
+              </div>
+
             </div>
 
         </div>
