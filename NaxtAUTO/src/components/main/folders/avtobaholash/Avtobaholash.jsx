@@ -118,6 +118,16 @@ const Avtobaholash = () => {
                 <input type="number" />
               </div>
 
+              <div className="karobka">
+                <h3>
+                  Karobka
+                </h3>
+                <select name="karobka" id="karobka">
+                  <option value="Avtomat">Avtomat</option>
+                  <option value="Mexanika">Mexanika</option>
+                </select>
+              </div>
+
             </div>
 
         </div>
