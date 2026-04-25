@@ -140,6 +140,12 @@ const Avtobaholash = () => {
                 </select>
               </div>
 
+              <div className="narxni_hisobla">
+                <button type='submit'>
+                  Narxni hisobla
+                </button>
+              </div>
+
             </div>
 
         </div>
