@@ -146,6 +146,15 @@ const Avtobaholash = () => {
                 </button>
               </div>
 
+              <div className="ai_baholash">
+                <h3>
+                  Ai baholash
+                </h3>
+                <button type='submit'>
+                  Ai orqali baholash
+                </button>
+              </div>
+
             </div>
 
         </div>
