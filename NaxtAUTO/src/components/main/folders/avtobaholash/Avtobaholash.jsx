@@ -163,6 +163,10 @@ const Avtobaholash = () => {
                 <button type='submit'>ENTER</button>
               </div>
 
+              <div className="buttons">
+                <button type='submit'>Cancel</button>
+              </div>
+
             </div>
 
         </div>
