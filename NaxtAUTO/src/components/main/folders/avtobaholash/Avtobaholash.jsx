@@ -171,12 +171,10 @@ const Avtobaholash = () => {
                 <button type='submit'>Wait</button>
               </div>
 
-              <div className="buttons">
-                <button type='submit'>Wait</button>
-              </div>
-
-              <div className="buttons">
-                <button type='submit'>Wait</button>
+              <div className="read_button">
+                <h3>
+                  Privacy and Policy
+                </h3>
               </div>
 
             </div>
@@ -192,3 +190,6 @@ const Avtobaholash = () => {
 }
 
 export default Avtobaholash
+
+
+
