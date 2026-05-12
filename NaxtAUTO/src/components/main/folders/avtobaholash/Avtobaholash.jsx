@@ -177,9 +177,15 @@ const Avtobaholash = () => {
                 </h3>
               </div>
 
-              <div className="read_button">
+              <div className="delete_button">
                 <h3>
-                  Privacy and Policy
+                  Delete this table
+                </h3>
+              </div>
+
+              <div className="edit_button">
+                <h3>
+                  Edit
                 </h3>
               </div>
 
