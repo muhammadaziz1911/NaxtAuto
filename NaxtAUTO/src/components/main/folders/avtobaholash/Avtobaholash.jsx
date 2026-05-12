@@ -177,6 +177,12 @@ const Avtobaholash = () => {
                 </h3>
               </div>
 
+              <div className="read_button">
+                <h3>
+                  Privacy and Policy
+                </h3>
+              </div>
+
             </div>
 
         </div>
