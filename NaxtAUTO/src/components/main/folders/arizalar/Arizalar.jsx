@@ -29,6 +29,9 @@ const Arizalar = () => {
       <input type="text" placeholder='Enter you name' />
       <input type="password" placeholder='Password' />
 
+
+      <input type="text" placeholder='Enter you name' />
+      <input type="password" placeholder='Password' />
     </div>
   )
 }
