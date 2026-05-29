@@ -213,6 +213,10 @@ const Avtobaholash = () => {
                 </h3>
               </div>
 
+              <div className="main_edit">
+                <button type='submit'>Edit</button>
+              </div>
+
             </div>
 
         </div>
