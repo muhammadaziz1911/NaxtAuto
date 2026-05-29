@@ -228,6 +228,10 @@ const Avtobaholash = () => {
                 <button type='submit'>Edit</button>
               </h3>
 
+              <h4>
+                Lorem, ipsum dolor sit amet consectetur adipisicing elit. Laboriosam voluptatum voluptates, dignissimos sit quae nostrum distinctio ab facere tenetur quam porro enim repudiandae. Fugiat fuga asperiores eveniet rem. Accusantium, perspiciatis!
+              </h4>
+
             </div>
 
         </div>
