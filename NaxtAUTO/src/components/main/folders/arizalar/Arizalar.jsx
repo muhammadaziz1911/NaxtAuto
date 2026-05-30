@@ -22,6 +22,12 @@ const Arizalar = () => {
         </h4>
       </div>
 
+      <div className="old_section">
+        <h3>
+          Eski bob
+        </h3>
+      </div>
+
     </div>
   )
 }
