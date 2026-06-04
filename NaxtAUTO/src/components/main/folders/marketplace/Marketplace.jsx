@@ -37,6 +37,12 @@ const Marketplace = () => {
 
       </div>
 
+      <div className="select">
+        <h2>
+          Select your car model
+        </h2>
+      </div>
+
     </div>
   )
 }
