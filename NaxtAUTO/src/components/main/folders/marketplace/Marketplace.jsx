@@ -38,6 +38,11 @@ const Marketplace = () => {
             <p>Gentra</p>
           </div>
 
+          <div className="boxes">
+            <img src="" alt="car" />
+            <p>Gentra</p>
+          </div>
+
         </div>
 
       </div>
