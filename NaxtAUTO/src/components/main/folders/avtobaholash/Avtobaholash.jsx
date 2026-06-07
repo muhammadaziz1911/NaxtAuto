@@ -240,6 +240,11 @@ const Avtobaholash = () => {
                 <h3>
                   Lacetti
                 </h3>
+
+
+                <h3>
+                  Lacetti
+                </h3>
               </div>
               
 
